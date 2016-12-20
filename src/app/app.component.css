@@ -1,0 +1,32 @@
+.top {
+  position: absolute;
+  top: 10px;
+}
+
+section {
+  margin-top: 100px;
+}
+
+li, ul {
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.left {
+  position: absolute;
+  left: 10px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.m-y-2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.m-y-1 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
